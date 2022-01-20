@@ -65,7 +65,13 @@ Debe resolverse utilizando los mecanismos de sincronizacion vistos en la materia
 por el lenguaje: semáforos y monitores (obligatoriamente), y al menos algunos de los
 siguientes: Locks, CyclicBarrier, CountDownLatch, Exchanger., implementaciones de
 BlockingQueue.</br>
+
+IMPORTANTE: en todo momento debe considerar los horarios.
+Cuando a un pasajero se le asigna aleatoriamente un vuelo, hay que tener en cuenta los
+horarios de los vuelos, no se le puede dar un vuelo que ya haya salido o este muy proximo a
+salir. Es decir si el pasajero llega a informes a las 11 hrs, se le debe dar un vuelo que salga al
+menos 2 horas mas tarde.
   
-## Autores ✒️
+## Autor ✒️
 
 - **Federico Aguilera** - [Fedeag-92](https://github.com/Fedeag-92)
