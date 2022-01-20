@@ -40,7 +40,7 @@ Puede haber mas de un vuelo asignado a cada puesto de embarque, obviamente con d
 de embarque. Por ejemplo en la terminal A, puesto de embarque 1, se embarcan los vuelos:
 - A147 de Aerolineas Argentinas, horario 10 hrs.
 - L12 de LAN, horario 15 hrs.
-- A1234 de Aerolineas Argentinas, horario 19 hrs.</br>
+- A1234 de Aerolineas Argentinas, horario 19 hrs.</br></br>
 Entonces, los pasajeros que ya hicieron el check-in son trasladados a la terminal que les
 corresponde y permanecen allí hasta que se haga el llamado para embarcar.</br>
 Por ejemplo, el aeropuerto "VIAJE BONITO" tiene 3 terminales: A, B y C. En la terminal A están
