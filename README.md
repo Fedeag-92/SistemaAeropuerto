@@ -2,6 +2,7 @@
 
   Trabajo Práctico Final para la materia Programación Concurrente de la Universidad Nacional del Comahue (UNCo). Programación Orientada a Objetos donde se destaca el uso de mecanismos y técnicas para lograr concurrencia.
   </br></br>
+  ![hippo](https://github.com/Fedeag-92/SistemaAeropuerto/blob/main/muestraAeropuerto.gif)
 ## Construido con 🛠️
 
   - [Java](https://www.w3schools.com/java/default.asp) - Lenguaje utilizado.
