@@ -1,7 +1,9 @@
 # Sistema Aeropuerto
 
-  Trabajo Práctico Final para la materia Programación Concurrente de la Universidad Nacional del Comahue (UNCo). Programación Orientada a Objetos donde se destaca el uso de mecanismos y técnicas para lograr concurrencia.
-  </br></br>
+  Trabajo Práctico Final para la materia Programación Concurrente de la Universidad Nacional del Comahue (UNCo). Programación Orientada a Objetos donde se destaca el uso de mecanismos y técnicas para lograr concurrencia.</br>
+El archivo "maqueta.docx" contiene el prediseño o conceptualizacion del sistema.</br>
+Debajo un ejemplo de la ejecución de la implementación.</br>
+  </br>
   ![hippo](https://github.com/Fedeag-92/SistemaAeropuerto/blob/main/muestraAeropuerto.gif)
 ## Construido con 🛠️
 
